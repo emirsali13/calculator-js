@@ -39,6 +39,6 @@ To install and run the Calculator locally:
    git clone https://github.com/your-username/calculator.git
 2. Navigate to the project directory:
    ```bash
-   git cd calculator
+    cd calculator
 3. Open `index.html` in a web browser.
 
